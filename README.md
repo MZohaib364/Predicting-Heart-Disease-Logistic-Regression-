@@ -10,3 +10,9 @@ This project demonstrates the implementation of Logistic Regression from scratch
 - Training and testing split.
 - Gradient descent optimization for logistic regression.
 - Evaluation metrics including accuracy and confusion matrix.
+
+## Learning Outcomes:
+This project emphasizes:
+- The mathematical foundations of logistic regression.
+- The application of gradient descent for optimization.
+- Building machine learning models without high-level libraries.
