@@ -6,7 +6,7 @@ This project demonstrates the implementation of Logistic Regression from scratch
 - Built entirely from scratch without external libraries like scikit-learn.
 - Handles numerical and categorical attributes effectively.
 - Implements key machine learning functionalities:
-- Data preprocessing (scaling, handling missing values).
+- Data preprocessing (scaling/normalization, handling missing values).
 - Training and testing split.
 - Gradient descent optimization for logistic regression.
 - Evaluation metrics including accuracy and confusion matrix.
